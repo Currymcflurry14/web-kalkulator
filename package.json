@@ -1,0 +1,20 @@
+{
+  "name": "web-kalkulator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Croissant07/WebKalkulator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Croissant07/WebKalkulator/issues"
+  },
+  "homepage": "https://github.com/Croissant07/WebKalkulator#readme",
+  "description": ""
+}
